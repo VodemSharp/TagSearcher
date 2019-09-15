@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29021.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TagSearcher", "TagSearcher\TagSearcher.csproj", "{37A13D40-4B66-4F6A-B065-4930252C4EAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TagSearcher.Facebook", "TagSearcher.Facebook\TagSearcher.Facebook.csproj", "{B06FDBAA-D225-4E48-9FE9-00DA0A412E9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TagSearcher.Instagram", "TagSearcher.Instagram\TagSearcher.Instagram.csproj", "{9BCEF4E7-E7BF-40FA-BCDB-F8891D870CDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TagSearcher.Core", "TagSearcher.Core\TagSearcher.Core.csproj", "{23583111-3C9F-4A60-BE28-CA53603BCB54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TagSearcher.VK", "TagSearcher.VK\TagSearcher.VK.csproj", "{C7748218-6D07-4D71-A57F-2EBCA64341B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagSearcher.Proxy", "TagSearcher.Proxy\TagSearcher.Proxy.csproj", "{B6D387B2-A674-4CD6-9054-367F1F5BBEB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37A13D40-4B66-4F6A-B065-4930252C4EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A13D40-4B66-4F6A-B065-4930252C4EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A13D40-4B66-4F6A-B065-4930252C4EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A13D40-4B66-4F6A-B065-4930252C4EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06FDBAA-D225-4E48-9FE9-00DA0A412E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06FDBAA-D225-4E48-9FE9-00DA0A412E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06FDBAA-D225-4E48-9FE9-00DA0A412E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06FDBAA-D225-4E48-9FE9-00DA0A412E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCEF4E7-E7BF-40FA-BCDB-F8891D870CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCEF4E7-E7BF-40FA-BCDB-F8891D870CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCEF4E7-E7BF-40FA-BCDB-F8891D870CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCEF4E7-E7BF-40FA-BCDB-F8891D870CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23583111-3C9F-4A60-BE28-CA53603BCB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23583111-3C9F-4A60-BE28-CA53603BCB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23583111-3C9F-4A60-BE28-CA53603BCB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23583111-3C9F-4A60-BE28-CA53603BCB54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7748218-6D07-4D71-A57F-2EBCA64341B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7748218-6D07-4D71-A57F-2EBCA64341B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7748218-6D07-4D71-A57F-2EBCA64341B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7748218-6D07-4D71-A57F-2EBCA64341B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D387B2-A674-4CD6-9054-367F1F5BBEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D387B2-A674-4CD6-9054-367F1F5BBEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D387B2-A674-4CD6-9054-367F1F5BBEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D387B2-A674-4CD6-9054-367F1F5BBEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD56C2D8-DA8F-4580-A9DE-521144F6537F}
+	EndGlobalSection
+EndGlobal
